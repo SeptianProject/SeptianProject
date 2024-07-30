@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Septian Asropik</h1>
 <h3 align="center">Now and whenever I will always take the time to type a code📌</h3>
-<h1 align="center">
-<img align="center"  src="https://media.tenor.com/bWUeVRqW9-IAAAAi/fast-cat-cat-excited.gif" width="250">
-<img align="center"  src="https://media.tenor.com/ElqtX4A6a0MAAAAj/victory.gif" width="200">
-<img align="center"  src="https://media.tenor.com/L4ncxhqryfQAAAAj/cat.gif" width="250">
-</h1>
+
 <br>
 
 - 🐱‍👤 I’m currently working on **Pixel Dev Factory**
@@ -64,6 +60,10 @@
 </h1>
 
 <br>
-
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=septianproject&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="septianproject"/></p>
 <br>
+<h1 align="center">
+<img align="center"  src="https://media.tenor.com/bWUeVRqW9-IAAAAi/fast-cat-cat-excited.gif" width="250">
+<img align="center"  src="https://media.tenor.com/ElqtX4A6a0MAAAAj/victory.gif" width="200">
+<img align="center"  src="https://media.tenor.com/L4ncxhqryfQAAAAj/cat.gif" width="250">
+</h1>

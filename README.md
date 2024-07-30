@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Septian Asropik</h1>
+<h1 align="center">Hi someone👋, I'm Septian Asropik</h1>
 <h3 align="center">Now and whenever I will always take the time to type a code📌</h3>
 
 <br>
